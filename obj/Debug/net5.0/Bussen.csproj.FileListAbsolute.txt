@@ -1,0 +1,16 @@
+D:\Projects\HermodProjects\Bussen\obj\Debug\net5.0\Bussen.csproj.AssemblyReference.cache
+D:\Projects\HermodProjects\Bussen\obj\Debug\net5.0\Bussen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HermodProjects\Bussen\obj\Debug\net5.0\Bussen.AssemblyInfoInputs.cache
+D:\Projects\HermodProjects\Bussen\obj\Debug\net5.0\Bussen.AssemblyInfo.cs
+D:\Projects\HermodProjects\Bussen\obj\Debug\net5.0\Bussen.csproj.CoreCompileInputs.cache
+D:\Projects\HermodProjects\Bussen\bin\Debug\net5.0\Bussen.exe
+D:\Projects\HermodProjects\Bussen\bin\Debug\net5.0\Bussen.deps.json
+D:\Projects\HermodProjects\Bussen\bin\Debug\net5.0\Bussen.runtimeconfig.json
+D:\Projects\HermodProjects\Bussen\bin\Debug\net5.0\Bussen.runtimeconfig.dev.json
+D:\Projects\HermodProjects\Bussen\bin\Debug\net5.0\Bussen.dll
+D:\Projects\HermodProjects\Bussen\bin\Debug\net5.0\ref\Bussen.dll
+D:\Projects\HermodProjects\Bussen\bin\Debug\net5.0\Bussen.pdb
+D:\Projects\HermodProjects\Bussen\obj\Debug\net5.0\Bussen.dll
+D:\Projects\HermodProjects\Bussen\obj\Debug\net5.0\ref\Bussen.dll
+D:\Projects\HermodProjects\Bussen\obj\Debug\net5.0\Bussen.pdb
+D:\Projects\HermodProjects\Bussen\obj\Debug\net5.0\Bussen.genruntimeconfig.cache
